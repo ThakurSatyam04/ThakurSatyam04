@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **0xHacking**
+- 🔭 I’m currently working on **0xDay** products
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently exploring **Blockchain**
 
 - 📫 How to reach me **kumarsatyam04.2000@gmail.com**
 
